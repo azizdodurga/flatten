@@ -1,3 +1,3 @@
-# flatten
-## Flatten Function
-Flat any given list
+# flatten and reverse
+## Flatten Function and Reverse Function
+Flat or reverse any given list 
