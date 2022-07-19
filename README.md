@@ -1,2 +1,3 @@
 # flatten
-Flatten Function
+## Flatten Function
+Flat any given list
